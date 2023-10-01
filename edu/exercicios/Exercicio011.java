@@ -17,5 +17,6 @@ public class Exercicio011 {
 
     public static int acharMenor(int numero1, int numero2, int numero3) {
         System.out.println("Alterado no GitHub");
+        System.out.println("Alterado do vscode");
     }
 }
