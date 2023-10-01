@@ -1,6 +1,7 @@
 package edu.exercicios;
 
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class Exercicio011 {
     public static void main(String[] args) {
@@ -16,10 +17,8 @@ public class Exercicio011 {
 
     public static int acharMenor(int numero1, int numero2, int numero3){
         int numero = 0;
-        if (numero1 > numero2){
-            numero = numero1;
-            numero1 = numero2;
-            numero2 = numero;
+        if (numero1 < numero2) and (numero1 < numero3) {
+            
         }
         ifelse (numero)
 
